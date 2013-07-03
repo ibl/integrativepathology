@@ -5,8 +5,8 @@
 
 // 1) BRANDING - the icon and link in the upper left corner
 wApps.manifest.brand={
-    pic:'https://wapps.googlecode.com/git/brandMathBiol.png',
-    url:'https://github.com/wApps/manifest#wapps-all-you-need-is-a-manifest'
+    pic:'https://raw.github.com/ibl/integrativepathology/master/iPath.png',
+    url:'https://github.com/ibl/integrativepathology/blob/master/manifest.js'
 };
 
 // 2) TABS - the navigation tabs in the head of wApps. 
